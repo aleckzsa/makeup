@@ -1,0 +1,188 @@
+.index_body{
+	margin: 0;
+	padding: 0;
+	background: url(makeupp.webp) no-repeat center center fixed;
+	background-size: cover;
+}
+
+.index_contenedor{
+	margin: auto;
+	text-align: center;
+	padding-top: 12%;
+	max-width: 1200px;
+}
+
+.index_title{
+	font-size: 1000%;
+	color: white;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.index_text{
+    font-size: 30px;
+    color: white;
+	font-family: 'Kanit', 'Recursive', sans-serif;
+}
+
+.index_button{
+    background-color: #FF4D6F;
+    border: none;
+    border-radius: 10px;
+    font-family: 'Kanit', sans-serif;
+    font-size: 40px;
+    padding: 10px 20px;
+    text-align: center;
+    color: white;
+}
+
+.headeruno{
+	background-color: #FF4D6F;
+	padding: 10px 10px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.headerdos{
+    background-color: #FFD1DC;
+	padding: 10px 10px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.boton{
+    background-color: #FFD1DC;
+    border: none;
+    font-family: 'Bebas Neue';
+    font-size: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    color: black;
+}
+
+.red{
+    width: 30px;
+    height: 30px;
+    max-width: 300px;
+    padding-right: 20%;
+    justify-content: space-between;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    margin-bottom: 80px;
+    max-width: 1500px;
+    margin-bottom: 50px;
+}
+
+.imggg{
+    width: 70%;
+    border-radius: 6%;
+}
+
+h2{
+    font-family: 'Bebas Neue';
+    color: black;
+    text-align: center;
+}
+
+p{
+    font-family: 'Kanit';
+    color: black; 
+    text-align: justify;
+}
+
+.make{
+    width: 200px;
+    border-radius: 6%;
+    margin-bottom: 10px;
+    align-content: center;
+}
+
+.tabla{
+    margin-left: 400px;
+    margin-right: 400px;
+    align-self: center;
+    align-content: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.pp{
+    font-size: 20px;
+    font-family: 'Kanit';
+    color: black; 
+    text-align: justify;
+    max-width: 70%;
+}
+
+h3{
+    font-family: 'Bebas Neue';
+    color: black;
+    font-size: 40px;
+}
+
+.pie{
+    background-color: #FF4D6F;
+    font-size: 100%;
+    font-family: 'Bebas Neue';
+}
+
+.botontres{
+    background-color: #FF4D6F;
+    border: none;
+    border-radius: 10%;
+    font-family: 'Kanit', sans-serif;
+    padding: 20% 30%px;
+    text-align: center;
+    color: white;
+    margin-top: 0%;
+    margin-bottom: 50%;
+}
+
+.headertres{
+	background-color: white;
+	padding: 20px 20px;
+	display: flex;
+	margin-left: 29%;
+	align-items: center;
+}
+
+h6{
+    font-family: 'Bebas Neue';
+    color: black;
+    font-size: 70px;
+    text-align: center;
+    margin-bottom: 0%;
+}
+
+.containerdos{
+    display: flex;
+    align-items: center;
+    margin-bottom: 80px;
+    max-width: 2000px;
+    margin-bottom: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Noto Serif Telugu', serif;
+font-family: 'Quicksand', sans-serif;
+}
+
+.ppp{
+    font-family: 'Noto Serif Telugu', serif;
+    font-family: 'Quicksand', sans-serif;
+    size: 20px;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.imgggg{
+    width: 200px;
+}
+
+.navbar-brand{
+    font-family: 'Bebas Neue';
+}
